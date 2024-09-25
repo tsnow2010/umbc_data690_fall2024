@@ -1,0 +1,270 @@
+  * DATA 601 - Introduction to Data Science <#>
+  * DATA 602 - Introduction to Data Analysis and Machine Learning <#>
+  * DATA 603 - Platforms for Big Data Processing <#>
+  * DATA 604 - Data Management <#>
+  * ENMG 652 - Management, Leadership, and Communication <#>
+  * DATA 605 - Ethical and Legal Issues in Data Science <#>
+  * DATA 606 - Capstone in Data Science <#>
+
+
+    Pathways (select one pathway)
+
+------------------------------------------------------------------------
+
+
+      Advanced Computing and Analytics (Main Campus)
+
+------------------------------------------------------------------------
+
+In collaboration with the Department of Computer Science and Electrical
+Engineering:
+
+  * CMSC 615 - Introduction to Systems Engineering and Systems
+    Architecting <#>
+  * CMSC 625 - Modeling and Simulation of Computer Systems <#>
+  * CMSC 627 - Wearable Computing <#>
+  * CMSC 628 - Introduction to Mobile Computing <#>
+  * CMSC 636 - Data Visualization <#>
+  * CMSC 653 - Coding Theory and Applications <#>
+  * CMSC 655 - Numerical Computations <#>
+  * CMSC 661 - Principles of Database Systems <#>
+  * CMSC 668 - Service Oriented Computing <#>
+  * CMSC 671 - Principles of Artificial Intelligence <#>
+  * CMSC 673 - Introduction to Natural Language Processing <#>
+  * CMSC 675 - Introduction to Neural Networks <#>
+  * CMSC 676 - Information Retrieval <#>
+  * CMSC 678 - Introduction to Machine Learning <#>
+  * CMSC 691 - Special Topics in Computer Science <#>
+  * Any other relevant graduate-level course in Computer Science with
+    permission from the Graduate Program Director.
+
+
+      Aging Studies (Main Campus and Shady Grove)
+
+------------------------------------------------------------------------
+
+In collaboration with the UMBC Erickson School of Aging
+
+  * AGNG 600 - Social & Economic Context of Aging <#>
+  * AGNG 604 - Policy Foundations of Aging Services <#>
+  *
+
+     
+
+    Students who chose the “Aging Studies” pathway will take AGNG 600,
+    AGNG 604, and one of the other courses listed below:
+
+     
+
+  * AGNG 620 - Overview of Dementia and Dementia Care Services <#>
+  * AGNG 621 - Policy Foundations in Dementia Care Services <#>
+  * AGNG 624 - Strategy, Marketing & Service Delivery <#>
+  * AGNG 632 - Diversity in Management of Aging Services <#>
+  *
+
+     
+
+    Read more about the<https://professionalprograms.umbc.edu/data-
+    science/masters-of-professional-studies-data-science/data-science-
+    mps-aging-studies/>aging studies pathway <https://
+    professionalprograms.umbc.edu/data-science/masters-of-professional-
+    studies-data-science/data-science-mps-aging-studies/>.
+
+
+      Bioinformatics (Shady Grove)
+
+------------------------------------------------------------------------
+
+In partnership with Foundation for Advanced Education Services (FAES) at
+the National Institutes of Health (NIH).
+
+Students can transfer in coursework from FAES at NIH to serve as a nine-
+credit Bioinformatics pathway within the MPS. See more at
+professional.umbc.edu/faes <http://professional.umbc.edu/faes>.
+
+
+      Cybersecurity (Main Campus and Shady Grove)
+
+------------------------------------------------------------------------
+
+In collaboration with the MPS Cybersecurity program.
+
+  * CYBR 620 - Introduction to Cybersecurity <#>
+  * CYBR 650 - Managing Cybersecurity Operations <#>
+  * CYBR 658 - Risk Analysis & Compliance <#>
+  *
+
+     
+
+    Click here to learn more about the cybersecurity pathway. <https://
+    professionalprograms.umbc.edu/data-science/masters-of-professional-
+    studies-data-science/data-science-mps-cybersecurity-pathway/>
+
+
+      Data Science Analytics (Main Campus)
+
+------------------------------------------------------------------------
+
+In collaboration with the Department of Information Systems
+
+  *
+
+    Select three courses to fulfill the pathway requirement.
+
+  * IS 661 - Biomedical Informatics Applications <#>
+  * IS 706 - Interfaces For Info. Visualization & Retrieval <#>
+  * IS 707 - Applications of Intelligent Technologies <#>
+  * IS 721 - Semi-Structured Data Management <#>
+  * IS 722 - Systems and Information Integration <#>
+  * IS 728 - Online Communities <#>
+  * IS 731 - Electronic Commerce <#>
+  * IS 733 - Data Mining <#>
+  * IS 777 - Statistical Learning for Data Analysis <#>
+  * Other courses may also qualify. Please consult the Program Director.
+
+    Click here to learn more about the data science analysis pathway.
+    <https://professionalprograms.umbc.edu/data-science/masters-of-
+    professional-studies-data-science/data-science-mps-data-science-
+    analysis-pathway/>
+
+
+      Economics/Econometrics (Main Campus)
+
+------------------------------------------------------------------------
+
+In collaboration with the Department of Economics.
+
+  * PUBL 604 - Statistical Analysis <#>
+  * ECON 601 - Microeconomic Analysis <#>
+  * ECON 602 - Macroeconomic Analysis <#>
+  * ECON 611 - Advanced Econometric Analysis I <#>
+  * ECON 612 - Advanced Econometric Analysis II <#>
+  * ECON 652 - Economics of Health <#>
+  *
+
+     
+
+    Click here to learn more about the economics/econometrics pathway.
+    <https://professionalprograms.umbc.edu/data-science/masters-of-
+    professional-studies-data-science/data-science-mps-economics-
+    econometrics-pathway/>
+
+
+      Healthcare Analytics (Main Campus)
+
+------------------------------------------------------------------------
+
+In collaboration with the MPS Health Information Technology program.
+
+  * HIT 658 - Health Informatics - I <#>
+  * HIT 759 - Healthcare Informatics-II <#>
+  *
+
+    Choice of one elective
+
+  * HIT 723 - Public Health Informatics <#>
+  * HIT 674 - Process and Quality Improvement with Health IT <#>
+  * HIT 751 - Introduction to Healthcare Databases <#>
+  *
+
+     
+
+    Click here to learn more about the healthcare analytics pathway.
+    <https://professionalprograms.umbc.edu/data-science/masters-of-
+    professional-studies-data-science/data-science-mps-healthcare-
+    analysis-pathway/>
+
+     
+
+
+      Management Science (Main Campus and Shady Grove)
+
+------------------------------------------------------------------------
+
+In collaboration with the College of Engineering and Information Technology.
+
+  *
+
+    Choose three of the ENMG courses.
+
+  * ENMG 650 - Project Management Fundamentals <#>
+  * ENMG 654 - Leading Teams and Organizations <#>
+  * ENMG 656 - Engineering Law and Ethics <#>
+  * ENMG 658 - Financial Management <#>
+  * ENMG 659 - Strategic Management <#>
+  * ENMG 660 - Systems Engineering Principles <#>
+  * ENMG 661 - Leading Virtual Global Teams <#>
+  * ENMG 663 - Advanced Project Management <#>
+  * ENMG 664 - Quality Engineering and Management <#>
+  * ENMG 668 - Project and Systems Engineering Management <#>
+  * ENMG 672 - Decision and Risk Analysis <#>
+  * ENMG 690 - Innovation and Technology Entrepreneurship <#>
+  *
+
+     
+
+    Click here to learn more about the management science pathway.
+    <https://professionalprograms.umbc.edu/data-science/masters-of-
+    professional-studies-data-science/data-science-mps-management-
+    sciences-pathway/>
+
+
+      Policy Analysis (Main Campus)
+
+------------------------------------------------------------------------
+
+In collaboration with the Department of Public Policy:
+
+  * PUBL 601 - Political and Social Context of the Policy Process <#>
+  * PUBL 603 - Theory and Practice of Policy Analysis <#>
+  * PUBL 607 - Statistical Applications in Evaluation Research <#>
+  * PUBL 608 - Applied Multivariate Regression - An Introduction <#>
+  * PUBL 610 - Special Topics in Public Policy <#>
+  *
+
+     
+
+    Click here to learn more about the policy analysis pathway.
+    <https://professionalprograms.umbc.edu/data-science/masters-of-
+    professional-studies-data-science/data-science-mps-policy-analysis-
+    pathway/>
+
+
+      Project Management (Main Campus and Shady Grove)
+
+------------------------------------------------------------------------
+
+In collaboration with the College of Engineering and Information Technology
+
+  * ENMG 650 - Project Management Fundamentals <#>
+  * ENMG 661 - Leading Virtual Global Teams <#>
+  * ENMG 663 - Advanced Project Management <#>
+  *
+
+     
+
+    Note: Students pursuing the Project Management pathway are eligible
+    for a certificate in Project Management upon completion.
+
+    Click here to learn more about the project management pathway here. 
+    <https://professionalprograms.umbc.edu/data-science/masters-of-
+    professional-studies-data-science/data-science-mps-project-
+    management-pathway/>
+
+     
+
+Return to {$returnto_text} Return to: Graduate Programs <https://
+catalog.umbc.edu/content.php?catoid=37&navoid=2690>
+------------------------------------------------------------------------
+Print this page.Print this Page <javascript:void(0);>
+Facebook this Page (opens a new window) <http://www.facebook.com/sharer/
+sharer.php?
+u=http%3A%2F%2Fcatalog.umbc.edu%2Fpreview_program.php%3Fcatoid%3D37%26poid%3D6971&t=I%20just%20discovered%20%27Data%20Science,%20M.P.S.%27%20at%20University%20of%20Maryland,%20Baltimore%20County>
+Tweet this Page (opens a new window) <http://twitter.com/intent/tweet?
+u=u=http%3A%2F%2Fcatalog.umbc.edu%2Fpreview_program.php%3Fcatoid%3D37%26poid%3D6971&t=Check%20out%20this%20program%20at%20University%20of%20Maryland,%20Baltimore%20County>
+<javascript:void(0)>
+
+    	All catalogs <https://catalog.umbc.edu/misc/catalog_list.php?
+catoid=37> © 2024 University of Maryland, Baltimore County.
+Powered by Modern Campus Catalog™ <http://www.moderncampus.com/>.
+
